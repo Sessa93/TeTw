@@ -8,17 +8,17 @@ from user import *
 INTERVAL = 900 #15 mins
 
 # Telegram TOKEN
-TOKEN = "243594869:AAEDupnFR9Nj6Jq1zLf2B1C5SkgyawV-ovA"
+TOKEN = ''
 
 # Twitter access data
 # Consumer Key (API Key)
-CONS_KEY = '9Y5DTmfoDDj9PqM9fJnNfWajW'
+CONS_KEY = ''
 # Consumer Secret (API Secret)
-CONS_SECRET = 'NgJipNL7M7RJ42y1w39vIVIhyP7Dw5WCXlUVpc34roxgZ8Ydu0'
+CONS_SECRET = ''
 # Access Token
-ACCESS_TOKEN = '3078958186-bl50f5oXWKbxM1u8LCyOJ3nmjBgheYC5uhCUhOs'
+ACCESS_TOKEN = ''
 # Access Token Secret
-ACCESS_TOKEN_SECRET = 'vMozEQpJYhzdLejiWkZaGoElNfWbMda5qIE1nXZIrK7BR'
+ACCESS_TOKEN_SECRET = ''
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.DEBUG)
